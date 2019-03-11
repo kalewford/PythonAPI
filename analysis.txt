@@ -1,0 +1,5 @@
+
+Analysis
+On the first graph (City Latitude vs Max Temperature), the latitude at 0 is equivalent to the equator. We can see that at 0, the max temperatures are at the highest. Anything going further from 0, the temperatures begin decreasing.
+On the other graphs, it doesn't seem like there is any correlation between latitude and the other chosen variables. Cloudiness, humidity, and wind speed varies across all latitudes.
+The only variable that is dependent on latitude is temperature.
